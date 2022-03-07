@@ -16,3 +16,7 @@
 2. Once you feel comfortable with the available filters, it is time for you to dig in and try any filter you'd like. Once you type in one or multiple filters and hit enter, the data table will be automatically updated. (See image Below)
 <img width="1153" alt="Screen Shot 2022-03-07 at 3 18 19 PM" src="https://user-images.githubusercontent.com/95834653/157119425-f67b6c16-b43f-4008-b741-761d2ce80207.png">
 3. Notice how filtering by the shape "circle" updates the table. Now, feel free to explore and play with any filters you wish.
+
+## Summary
+- One drawback of this webpage is the fact that the filters are case sensitive. This means, if you filter by "Circle" instead of "circle", your filter will return no matches.
+- Two recommendations for further development are: webscraping the most recent data of UFO sightseeings for us, and users, to have the most recent data. Also, adding filters directly to the column names in order to have a more "user-friendly" filtering. With this there is no need for typing anything, users would be able to filter with just a click.
